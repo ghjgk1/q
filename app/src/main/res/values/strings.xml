@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Nikitin_SA_01_02</string>
+    <string name="name">Геометрические фигуры</string>
+    <string name="login">Введите логин</string>
+    <string name="reg">Регистрация</string>
+    <string name="password">Введите пароль</string>
+    <string name="vubor">Выбор фигуры</string>
+    <string name="data">Введите данные для расчета</string>
+    <string name="button1">Выполнить расчет</string>
+    <string name="nazv">Название выбранной фигуры</string>
+    <string name="rez">Результат</string>
+    <string name="back">Назад</string>
+    <string-array name="item">
+        <item>Треугольник</item>
+        <item>Круг</item>
+    </string-array>
+</resources>
