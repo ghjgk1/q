@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Road\Road\bin\Debug\net8.0\RoadLibrary.deps.json
+C:\Users\admin\source\repos\Road\Road\bin\Debug\net8.0\RoadLibrary.dll
+C:\Users\admin\source\repos\Road\Road\bin\Debug\net8.0\RoadLibrary.pdb
+C:\Users\admin\source\repos\Road\Road\obj\Debug\net8.0\RoadLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Road\Road\obj\Debug\net8.0\RoadLibrary.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Road\Road\obj\Debug\net8.0\RoadLibrary.AssemblyInfo.cs
+C:\Users\admin\source\repos\Road\Road\obj\Debug\net8.0\RoadLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Road\Road\obj\Debug\net8.0\RoadLibrary.dll
+C:\Users\admin\source\repos\Road\Road\obj\Debug\net8.0\refint\RoadLibrary.dll
+C:\Users\admin\source\repos\Road\Road\obj\Debug\net8.0\RoadLibrary.pdb
+C:\Users\admin\source\repos\Road\Road\obj\Debug\net8.0\ref\RoadLibrary.dll
