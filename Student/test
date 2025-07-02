@@ -1,0 +1,35 @@
+﻿#define _CRT_SECURE_NO_WARNINGS
+#include <conio.h>
+#include <stdio.h>
+#include <iostream>
+
+struct Parallelogram {
+    int a; 
+    int b; 
+    int angle; 
+};
+
+int main() {
+    setlocale(LC_ALL, "");
+
+    FILE* inputFile = fopen("input.txt", "r");
+    FILE* outputFile = fopen("Rezultat.txt", "w");
+
+    if (inputFile == NULL || outputFile == NULL) 
+        std::cout << "Файл не существует или не может быть открыт.\n";
+    else {
+        for (;;) {
+            Parallelogram parallelogram;
+
+            if (feof(inputFile))
+                break;
+
+            fscanf(inputFile, "%d %d %d", &parallelogram.a, &parallelogram.b, &parallelogram.angle);
+
+            if (parallelogram.a == parallelogram.b && parallelogram.angle == 90)
+                fprintf(outputFile, "%d %d %d\n", parallelogram.a, parallelogram.b, parallelogram.angle);
+        }
+        fclose(inputFile);
+        fclose(outputFile);
+    }
+}
